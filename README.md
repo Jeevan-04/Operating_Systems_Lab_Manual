@@ -1,1 +1,5 @@
-# Operating_Systems_Lab_Manual
+<html>
+  <body>
+     <marquee direction="right">This text will scroll from left to right</marquee>
+  </body>
+</html>
