@@ -1,4 +1,4 @@
-![image](https://github.com/Jeevan-04/Operating_Systems_Lab_Manual/assets/142775323/c53ef641-6d93-424f-bd97-d67b5f16bf5f)# Operating Lab Manual 2
+# Operating Lab Manual 2
 
 # 1. Write a shell scipt for printing shell scripting is fun.
 
